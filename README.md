@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 # 💫 About Me<br><br># 👋 Hi, I'm Ramakrushna Jena<br><br>💻 **Computer Science & Engineering Student | Aspiring Cybersecurity Professional**<br><br>🎓 B.Tech Computer Science & Engineering Student<br>🌐 Interested in **Full-Stack Web Development**<br>💻 Passionate about **Software Development**<br>🔐 Exploring **Cybersecurity, Network Security & Threat Detection**<br>🛡️ Interested in **Secure Application Development**<br>🚀 Building responsive and user-friendly web applications<br>🧠 Improving my **programming, problem-solving & security skills**<br>⚡ I enjoy building real-world projects and solving problems with code.<br><br>### 🎯 Career Goal<br><br>My goal is to build a successful career in **Cybersecurity** while using my software development knowledge to create **secure, reliable, and real-world applications**.<br>
 
 
